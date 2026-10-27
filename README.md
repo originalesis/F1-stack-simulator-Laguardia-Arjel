@@ -1,3 +1,16 @@
+# F1 Stack Simulator - Laguardia, Arjel
+
+**Name:** Arjel Joseph D Laguardia
+**Section:** BSIT WMT 4-2
+**Original starter repository:** https://github.com/Jackson-Soriano/f1-elec4-stack-simulator-starter.git
+
+## Activity Description
+Pre-demo reading activity for the Python and Flask Stack Simulator.
+I cloned the starter template, explored its files (app.py, stack_model.py,
+templates, static files), and answered the guide questions on how Python,
+Flask, Jinja, HTML, CSS, Bootstrap, and JavaScript work together.
+
+---
 # Flask Stack Simulator startup template
 
 This is the unfinished repository for a pre-demo reading activity. Read `Flask_PreDemo_Reading_Activity.pdf` first. 
